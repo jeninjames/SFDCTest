@@ -38,7 +38,7 @@ c.Description += 'Because of Case "'+cse.Subject+'"\n';
 }
 }
 }
-// test comment
+
  return contacts;
 }
 
